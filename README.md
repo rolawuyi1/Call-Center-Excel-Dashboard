@@ -9,7 +9,7 @@ This project covers data cleaning, data analysis and data visualisation using Mi
 
 A simple, well-detailed interactive dashboard report was created using a pivot chart. 
 Then, slicers were inserted to filter the dashboard by Sentiment. 
-Calculation was made to show the Total Number of Customers, Customers who spent over 30 minutes on calls and customers who called more than once
+Calculation was made to show the Total Number of Customers, Customers who spent over 30 minutes on calls and Customers who called more than once
 
 ❓ Business Question
 
